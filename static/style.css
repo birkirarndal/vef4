@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	max-width: 50em;
+	margin: 0 auto;
+	font-family: sans-serif;
+}
+
+header {
+	border: 1px solid gray;
+	padding: 1em;
+	border-radius: 5px 5px 0 0;
+	text-align: center;
+}
+.row {
+	border: 1px solid gray;
+	padding: 1em;
+	border-radius: 0 0 5px 5px;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+.pd2 {
+	padding-left: 2em;
+}
